@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BetterPES](https://better-pes.vercel.app)
 
-- 🌱 I’m currently learning **trpc, NextAuth, Redis and Game development with Unity.**
+- 🌱 I’m currently learning **Tensorflow.js**
 
 - 💬 Ask me about **NextJS**
 

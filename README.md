@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BetterPES](https://better-pes.vercel.app)
 
-- 🌱 I’m currently learning **Tensorflow.js**
+- 🌱 I’m currently learning **Prisma, React Native and Tensorflow.js**
 
 - 💬 Ask me about **NextJS**
 
